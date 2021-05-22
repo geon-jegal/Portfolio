@@ -55,6 +55,6 @@ Job[] = {"Hero", // 모험가
 Case[] = {"Warriors", "Bowmen", "Magicians", "Thieves", "Porates"};
 
 
-#define max_damage = 500000000000 
+#define max_damage = 150000000000
 
 #endif
