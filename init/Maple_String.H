@@ -4,7 +4,9 @@
 #ifndef Maple_string_H
 #define Maple_string_H
 
-string Job[], Item[], Case[];
+using namespace std;
+
+string Job[], Item[], other_Case[];
 
 Job[] = {"Hero", // 모험가
         "Darknight",
@@ -52,7 +54,7 @@ Job[] = {"Hero", // 모험가
         "Kinesis"
         };
 
-Case[] = {"Warriors", "Bowmen", "Magicians", "Thieves", "Porates"};
+other_Case[] = {"Warriors", "Bowmen", "Magicians", "Thieves", "Porates"};
 
 
 #define max_damage = 150000000000

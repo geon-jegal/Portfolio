@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "Maple_operator.H"
+
 #include "Maple_String.H"
 #include "Maple_Define.H"
 
