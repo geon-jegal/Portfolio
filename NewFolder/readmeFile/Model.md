@@ -28,13 +28,15 @@
 			- Potal(Component)   
 		- 함정   
 			- TriggerComponent   
-		- etc   
+		- etc  
+		
 	- 아이템   
 		- Static   
 		- 장비   
 		- 소비   
 		- 기타()   
 		- etc   
+
 	- baseUI   
 		- UIsprite(Static)   
 			- _UISpriteComponent   
