@@ -12,8 +12,10 @@ MSW폴더
 하지만 설명의 용이성을 위해 하나의 기능으로 작동하는 api들은 묶어서 설명한다.   
 (사실 제가 이해하기 편한 방식으로 작성한 것입니다.추후 개발자들끼리 논의 후 수정한다.)   
 
-- 전체적인 코드를 개선하여 용량을 줄이고 싶다.   
-    - 메월드에서 제공하는 api들중 재활용 할 수 있는 것들은 최대한 재활용한다.
+- 전체적인 코드를 개선하여 용량을 줄여야 한다.
+    - 기본 코드가 13mb.... 심지어 아직 덜 구현한 것
+    - 메인 퀘스트와 같은 전체적인 볼륨이 다 들어가면 100mb는 될 듯
+    - 메월드에서 제공하는 api들중 재활용 할 수 있는 것들은 최대한 재활용한다.(개인적으로 폰트점....)
 
 아레의 설명들은 구현이 덜 되었거나, 삭제 예정(임시 구현) 또는 분류하기 애매해서 이곳에 기술하였습니다.(추후 수정)   
 - 마우스 커서
@@ -52,3 +54,7 @@ MSW폴더
     <https://maplestoryworlds-developers.nexon.com/ko/docs/?postId=723>,   
     <https://maplestoryworlds-developers.nexon.com/ko/apiReference/How-to-use-API-Reference> 참고   
     <https://www.notion.so/publisher-kr/2323989fd4e14e0fbf734a6e5c4f0648> 노션-개발 링크
+
+ - 시연 영상
+    <https://youtu.be/bS2iVpto_50>
+    <https://youtu.be/KDjH_HYtR6U>
