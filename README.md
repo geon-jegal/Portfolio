@@ -48,13 +48,13 @@ MSW폴더
     이를 구현하기 위한 컴포넌트.
     프로퍼티 값에 따라 카메라가 움직임에 따른 배경 object의 움직임이 달라진다.
 
-- etc
+- etc   
     NPC, monster, 리액터(보물상자, 포탈, 함정), 아이템, baseUI들은 모델을 만들어 둔다.   
     Component, Logic, AI, Sprict, Event, State 관련 정리하기, 나만의 시작가이드와 API레퍼런스 만들기   
     <https://maplestoryworlds-developers.nexon.com/ko/docs/?postId=723>,   
     <https://maplestoryworlds-developers.nexon.com/ko/apiReference/How-to-use-API-Reference> 참고   
     <https://www.notion.so/publisher-kr/2323989fd4e14e0fbf734a6e5c4f0648> 노션-개발 링크
 
- - 시연 영상
-    <https://youtu.be/bS2iVpto_50>
-    <https://youtu.be/KDjH_HYtR6U>
+ - 시연 영상   
+    <https://youtu.be/bS2iVpto_50>   
+    <https://youtu.be/KDjH_HYtR6U>   
