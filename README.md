@@ -8,7 +8,7 @@ DPM폴더
    
 
 MSW폴더
-기본적인 그룹은 컴포넌트는 컴포넌트끼리, 로직은 로직끼리 데이터셋은 데이터셋끼리 즉, API끼리 분류한다.   
+기본적인 그룹은 컴포넌트는 컴포넌트끼리, 로직은 로직끼리 데이터셋은 데이터셋끼리 즉, API(?) 끼리 분류한다.   
 하지만 설명의 용이성을 위해 하나의 기능으로 작동하는 api들은 묶어서 설명한다.   
 (사실 제가 이해하기 편한 방식으로 작성한 것입니다.추후 개발자들끼리 논의 후 수정한다.)   
 
@@ -51,9 +51,6 @@ MSW폴더
 - etc   
     NPC, monster, 리액터(보물상자, 포탈, 함정), 아이템, baseUI들은 모델을 만들어 둔다.   
     Component, Logic, AI, Sprict, Event, State 관련 정리하기, 나만의 시작가이드와 API레퍼런스 만들기   
-    <https://maplestoryworlds-developers.nexon.com/ko/docs/?postId=723>,   
-    <https://maplestoryworlds-developers.nexon.com/ko/apiReference/How-to-use-API-Reference> 참고   
-    <https://www.notion.so/publisher-kr/2323989fd4e14e0fbf734a6e5c4f0648> 노션-개발 링크
 
  - 시연 영상   
     <https://youtu.be/bS2iVpto_50>   

@@ -1,9 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\NewFolder",
-    "\\NewFolder\\readmeFile"
+    "\\DPM",
+    "\\DPM\\character",
+    "\\DPM\\init",
+    "\\DPM\\maple1",
+    "\\MSW",
+    "\\MSW\\readmeFile",
+    "\\web"
   ],
-  "SelectedNode": "\\NewFolder\\readmeFile\\RPG.md",
+  "SelectedNode": "\\DPM\\init\\Maple_Define.cpp",
   "PreviewInSolutionExplorer": false
 }
