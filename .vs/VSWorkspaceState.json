@@ -1,14 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DPM",
-    "\\DPM\\character",
-    "\\DPM\\init",
-    "\\DPM\\maple1",
-    "\\MSW",
-    "\\MSW\\readmeFile",
-    "\\web"
+    "\\data_structure",
+    "\\MSW"
   ],
-  "SelectedNode": "\\DPM\\init\\Maple_Define.cpp",
+  "SelectedNode": "\\data_structure\\Linked List(03-23)",
   "PreviewInSolutionExplorer": false
 }
