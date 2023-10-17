@@ -1,14 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\data_structure",
+    "\\data_structure\\Array vs Linked List",
+    "\\data_structure\\Check Balanced Parentheses Using Stack",
     "\\DPM",
-    "\\DPM\\character",
-    "\\DPM\\init",
-    "\\DPM\\maple1",
     "\\MSW",
     "\\MSW\\readmeFile",
     "\\web"
   ],
-  "SelectedNode": "\\DPM\\init\\Maple_Define.cpp",
+  "SelectedNode": "\\MSW",
   "PreviewInSolutionExplorer": false
 }
