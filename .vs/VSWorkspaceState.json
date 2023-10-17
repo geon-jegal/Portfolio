@@ -2,6 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\data_structure",
+<<<<<<< HEAD
     "\\data_structure\\Array vs Linked List",
     "\\data_structure\\Check Balanced Parentheses Using Stack",
     "\\DPM",
@@ -10,5 +11,10 @@
     "\\web"
   ],
   "SelectedNode": "\\MSW",
+=======
+    "\\MSW"
+  ],
+  "SelectedNode": "\\data_structure\\Linked List(03-23)",
+>>>>>>> bf7a47302107629b845fbf0716c8da15cbad0371
   "PreviewInSolutionExplorer": false
 }
